@@ -76,7 +76,7 @@ nibabel==3.0.1
 notebook==6.2.0
 numba==0.48.0
 numexpr==2.7.1
-numpy==1.18.1
+numpy
 oauthlib==3.1.0
 packaging==20.9
 pamela==1.0.0
